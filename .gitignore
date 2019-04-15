@@ -1,0 +1,5 @@
+/.project
+/.serverless/
+/node_modules/
+serverless.env.yml
+schema.graphql
